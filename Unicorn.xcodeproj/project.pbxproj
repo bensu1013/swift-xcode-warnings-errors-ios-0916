@@ -30,7 +30,7 @@
 
 /* Begin PBXFileReference section */
 		4A1978ECAC889349FC8F30BE /* Pods_Unicorn.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Unicorn.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5B763E851D4A513000B6722E /* ViewControllerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerTests.swift; sourceTree = "<group>"; };
+		5B763E851D4A513000B6722E /* ViewControllerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerTests.swift; sourceTree = "<group>"; usesTabs = 0; };
 		5BE81E011D4A4F03008106D3 /* Unicorn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Unicorn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BE81E041D4A4F03008106D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5BE81E061D4A4F03008106D3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
